@@ -26,6 +26,8 @@ A responsive personal profile card built with **HTML** and **CSS**, featuring so
 
 ## 📸 Preview
 <img width="916" height="803" alt="image" src="https://github.com/user-attachments/assets/d9963b64-bca0-43ad-bfee-ca6afda4d443" />
+<img width="1404" height="897" alt="image" src="https://github.com/user-attachments/assets/35048aea-731d-4fdd-9c2e-7c8da1bc08ab" />
+
 ---
 
 ## 📂 Folder Structure
